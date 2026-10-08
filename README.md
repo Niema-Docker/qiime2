@@ -1,2 +1,2 @@
 # qiime2
-QIIME 2
+Docker environment for QIIME 2
